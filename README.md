@@ -8,7 +8,7 @@
 
 ### 🧠 Technologies and tools
 
-**Lenguajes:**
+**Languages:**
 - Python 🐍
 - Java ☕
 - SQL (PostgreSQL, SQL Server)
