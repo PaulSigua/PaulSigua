@@ -1,38 +1,38 @@
 ## 👋 ¡Hola! Soy Paúl Sigua
 
-🎓 Estudiante de Ingeniería en Ciencias de la Computación en la Universidad Politécnica Salesiana.
+🎓 Student of Computer Science Engineering at the Salesian Polytechnic University. Cuenca, Ecuador 🇪🇨
 
-🛠️ Actualmente trabajando en proyectos académicos y personales relacionados con el desarrollo web, API, procesamiento de imágenes con GPU, y plataformas móviles conectadas a backends modernos.
+🛠️ Currently working on academic and personal projects related to web development, API, GPU image processing, and mobile platforms connected to modern backends.
 
 ---
 
-### 🧠 Tecnologías y herramientas
+### 🧠 Technologies and tools
 
 **Lenguajes:**
 - Python 🐍
 - Java ☕
 - SQL (PostgreSQL, SQL Server)
 
-**Frameworks y Librerías:**
+**Frameworks and Libraries:**
 - FastAPI ⚡
 - Angular 🅰️
 - Tailwind CSS 🎨
 
-**Herramientas:**
+**Tools:**
 - Docker 🐳
 - Git & GitHub
 - Eclipse / VS Code
 
 ---
 
-### 🚀 Últimos proyectos
+### 🚀 Last Projects
 
-- **Sistema Médico**: Diagnóstico y visualización cerebral con imágenes HDF5 + IA (U-Net, Grad-CAM, Plotly).
-- **UPSGlam 2.0**: Plataforma tipo Instagram usando Flutter, Firebase y Spring WebFlux.
+- **Medical System**: Diagnosis and brain visualization with HDF5 + IA imaging (U-Net, Grad-CAM, Plotly).
+- **UPSGlam 2.0**: Instagram-like platform using Flutter, Firebase and Spring WebFlux.
 
 ---
 
-### 📫 ¿Cómo contactarme?
+### 📫 How to contact me?
 
 - 📧 Email: [mateosigua2002@gmail.com](mailto:mateosigua2002@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/paulsigua](https://www.linkedin.com/in/paulsigua)
