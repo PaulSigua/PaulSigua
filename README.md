@@ -1,8 +1,8 @@
-## 👋 ¡Hola! Soy Paúl Sigua
+## 👋 Hey! I'm Paúl Sigua
 
 🎓 Student of Computer Science Engineering at the Salesian Polytechnic University. Cuenca, Ecuador 🇪🇨
 
-🛠️ Currently working on academic and personal projects related to web development, API, GPU image processing, and mobile platforms connected to modern backends.
+🛠️ I'm Currently working on academic and personal projects related to web development, API, GPU image processing, and mobile platforms connected to modern backends.
 
 ---
 
