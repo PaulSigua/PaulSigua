@@ -13,7 +13,7 @@
 - Java ☕
 - SQL (PostgreSQL, SQL Server)
 
-**Frameworks and Libraries:**
+**Frameworks:**
 - FastAPI ⚡
 - Angular 🅰️
 - Tailwind CSS 🎨
