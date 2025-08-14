@@ -1,8 +1,6 @@
 ## 👋 Hey! I'm Paúl Sigua
 
-🎓 Student of Computer Science Engineering at the Salesian Polytechnic University. Cuenca, Ecuador 🇪🇨
-
-🛠️ I'm Currently working on academic and personal projects related to web development, API, GPU image processing, and mobile platforms connected to modern backends.
+I am passionate about programming and am open to learning and solving new challenges 🛠️ 
 
 ---
 
@@ -32,7 +30,7 @@
 
 **Coming soon**
 
-- **DictSQL**: Framework for cross-platform database documentation
+- **DictSQL**: Framework for cross-platform database documentation open source
 
 ---
 
