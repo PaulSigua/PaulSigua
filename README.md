@@ -110,5 +110,3 @@ I am passionate about programming and am open to learning and solving new challe
 - Email: [mateosigua2002@gmail.com](mailto:mateosigua2002@gmail.com)
 - LinkedIn: [linkedin.com/in/paulsigua](https://www.linkedin.com/in/paulsigua)
 <!-- - 🌐 Portfolio: [tuweb.dev](https://tuweb.dev) *(opcional si tienes)* -->
-
----
