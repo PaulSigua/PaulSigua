@@ -7,30 +7,39 @@ I am passionate about programming and am open to learning and solving new challe
 <p align="center"><h3 align="left">📊 GitHub Statistics</h3></p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PaulSigua&show_icons=true&theme=github_light&bg_color=00000000" 
-    alt="GitHub Stats" height="180"/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulSigua&layout=compact&theme=github_light&bg_color=00000000" 
-    alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=PaulSigua&theme=github_light&date_format=j%20M%5B%20Y%5D&background=00000000" 
-    alt="GitHub Streak" height="180"/>
+  <img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulSigua&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"
+  alt="Lenguajes Más Usados"
+  />
+  <img
+  height="180"
+  src="https://streak-stats.demolab.com?user=PaulSigua&theme=tokyonight&date_format=j%20M%5B%20Y%5D&background=00000000"
+  alt="Racha de GitHub"
+  />
 </p>
 
 ---
 
-<p align="center"><h3 align="left">🚀 Last Projects</h3></p>
+<table align="center" width="100%">
+<tr align="center">
+<td width="50%" valign="top" style="padding: 10px;">
+<p align="center"><h3 align="center">🚀 Last Project</h3></p>
+<h4 align="center"><a href="https://github.com/PaulSigua/Medical-System">Medical System</a></h4>
+<p align="center">
+<i>Diagnosis and brain visualization with HDF5 + IA imaging (U-Net, Grad-CAM, Plotly).</i>
+</p>
+</td>
 
-- **Medical System**: Diagnosis and brain visualization with HDF5 + IA imaging (U-Net, Grad-CAM, Plotly).
-- **UPSGlam 2.0**: Instagram-like platform using Flutter, Firebase and Spring WebFlux.
-
-<p align="center"><h3 align="left">⏰ Comming soon</h3></p>
-
-- **DictSQL**: Framework for cross-platform database documentation open source
+<td width="50%" valign="top" style="padding: 10px;">
+<p align="center"><h3 align="center">⏰ Próximamente</h3></p>
+<h4 align="center"><a href="https://github.com/PaulSigua/DictSQL">DictSQL</a></h4>
+<p align="center">
+<i>Framework for cross-platform database documentation open source.</i>
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,7 +86,6 @@ I am passionate about programming and am open to learning and solving new challe
 <h4 align="center">📚 Frameworks and Libraries</h4>
 
 <p align="center">
-  <!-- Frontend -->
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
   <a href="#"><img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white"></a>
   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
@@ -107,6 +115,6 @@ I am passionate about programming and am open to learning and solving new challe
 
 ### 📫 How to contact me?
 
-- Email: [mateosigua2002@gmail.com](mailto:mateosigua2002@gmail.com)
+- Email: [paulmateo0208@gmail.com](mailto:paulmateo0208@gmail.com)
 - LinkedIn: [linkedin.com/in/paulsigua](https://www.linkedin.com/in/paulsigua)
 <!-- - 🌐 Portfolio: [tuweb.dev](https://tuweb.dev) *(opcional si tienes)* -->
